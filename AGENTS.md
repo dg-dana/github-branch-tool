@@ -72,6 +72,16 @@ Answers:
 
 > Why were important technical choices made?
 
+## Development style
+
+This project is developed incrementally for learning purposes.
+
+- Work only on the current explicitly requested step.
+- Do not implement future planned features early.
+- Prefer the smallest change that demonstrates the current concept.
+- Before introducing a new file, dependency, abstraction, or major function, explain why it is needed.
+- Keep implementation steps small enough that each file and important function can be reviewed before continuing.
+
 ## General agent behavior
 
 - Prefer small, verifiable changes.
